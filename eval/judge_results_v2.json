@@ -1,0 +1,272 @@
+[
+  {
+    "fit_label": "partial",
+    "winner": "tie",
+    "base_covers4": true,
+    "ft_covers4": true,
+    "base_grounded": true,
+    "ft_grounded": true,
+    "reason": "Both responses effectively cover the candidate's experience, strengths, weaknesses, and overall fit for the position."
+  },
+  {
+    "fit_label": "partial",
+    "winner": "finetuned",
+    "base_covers4": true,
+    "ft_covers4": true,
+    "base_grounded": true,
+    "ft_grounded": true,
+    "reason": "Response A provides a clearer assessment of the candidate's lack of specific technical qualifications required for the role."
+  },
+  {
+    "fit_label": "partial",
+    "winner": "tie",
+    "base_covers4": true,
+    "ft_covers4": true,
+    "base_grounded": true,
+    "ft_grounded": true,
+    "reason": "Both responses effectively cover the candidate's experience, strengths, weaknesses, and overall fit for the position."
+  },
+  {
+    "fit_label": "partial",
+    "winner": "tie",
+    "base_covers4": true,
+    "ft_covers4": true,
+    "base_grounded": true,
+    "ft_grounded": true,
+    "reason": "Both responses effectively cover the candidate's experience, strengths, weaknesses, and overall fit, but neither provides a clear advantage over the other."
+  },
+  {
+    "fit_label": "partial",
+    "winner": "tie",
+    "base_covers4": true,
+    "ft_covers4": true,
+    "base_grounded": true,
+    "ft_grounded": true,
+    "reason": "Both responses effectively cover all four required elements and are grounded in the candidate's resume."
+  },
+  {
+    "fit_label": "partial",
+    "winner": "finetuned",
+    "base_covers4": false,
+    "ft_covers4": true,
+    "base_grounded": true,
+    "ft_grounded": true,
+    "reason": "Response B effectively covers all four criteria, while Response A fails to fully address the candidate's weaknesses in relation to the job description."
+  },
+  {
+    "fit_label": "partial",
+    "winner": "tie",
+    "base_covers4": true,
+    "ft_covers4": true,
+    "base_grounded": true,
+    "ft_grounded": true,
+    "reason": "Both responses effectively cover the candidate's experience, strengths, weaknesses, and overall fit for the position."
+  },
+  {
+    "fit_label": "partial",
+    "winner": "finetuned",
+    "base_covers4": true,
+    "ft_covers4": true,
+    "base_grounded": true,
+    "ft_grounded": true,
+    "reason": "Response A provides a clearer and more specific evaluation of the candidate's fit for the power electronics engineer position."
+  },
+  {
+    "fit_label": "partial",
+    "winner": "base",
+    "base_covers4": true,
+    "ft_covers4": false,
+    "base_grounded": true,
+    "ft_grounded": true,
+    "reason": "Response B provides a complete evaluation of the candidate's experience, strengths, weaknesses, and overall fit for the position."
+  },
+  {
+    "fit_label": "partial",
+    "winner": "tie",
+    "base_covers4": true,
+    "ft_covers4": true,
+    "base_grounded": true,
+    "ft_grounded": true,
+    "reason": "Both responses effectively summarize the candidate's experience, strengths, weaknesses, and overall fit for the position."
+  },
+  {
+    "fit_label": "poor",
+    "winner": "tie",
+    "base_covers4": true,
+    "ft_covers4": true,
+    "base_grounded": true,
+    "ft_grounded": true,
+    "reason": "Both responses effectively cover all four required elements and are grounded in the candidate's resume and job description."
+  },
+  {
+    "fit_label": "poor",
+    "winner": "tie",
+    "base_covers4": true,
+    "ft_covers4": true,
+    "base_grounded": true,
+    "ft_grounded": true,
+    "reason": "Both responses effectively summarize the candidate's experience, identify strengths and weaknesses, and provide an overall fit verdict."
+  },
+  {
+    "fit_label": "poor",
+    "winner": "tie",
+    "base_covers4": true,
+    "ft_covers4": true,
+    "base_grounded": true,
+    "ft_grounded": true,
+    "reason": "Both responses effectively cover all four points and are grounded in the candidate's resume, but they differ slightly in phrasing and emphasis."
+  },
+  {
+    "fit_label": "poor",
+    "winner": "tie",
+    "base_covers4": true,
+    "ft_covers4": true,
+    "base_grounded": true,
+    "ft_grounded": true,
+    "reason": "Both responses effectively cover all four required elements and are grounded in the candidate's resume."
+  },
+  {
+    "fit_label": "poor",
+    "winner": "tie",
+    "base_covers4": true,
+    "ft_covers4": true,
+    "base_grounded": true,
+    "ft_grounded": true,
+    "reason": "Both responses effectively cover the candidate's experience, strengths, weaknesses, and overall fit for the position."
+  },
+  {
+    "fit_label": "poor",
+    "winner": "tie",
+    "base_covers4": true,
+    "ft_covers4": true,
+    "base_grounded": true,
+    "ft_grounded": true,
+    "reason": "Both responses effectively cover all four required elements and are grounded in the candidate's resume."
+  },
+  {
+    "fit_label": "poor",
+    "winner": "tie",
+    "base_covers4": true,
+    "ft_covers4": true,
+    "base_grounded": true,
+    "ft_grounded": true,
+    "reason": "Both responses effectively summarize the candidate's experience, identify strengths and weaknesses, and provide an overall fit verdict."
+  },
+  {
+    "fit_label": "poor",
+    "winner": "finetuned",
+    "base_covers4": false,
+    "ft_covers4": true,
+    "base_grounded": true,
+    "ft_grounded": true,
+    "reason": "Response B provides a complete evaluation of the candidate's experience, strengths, weaknesses, and overall fit for the Business Analyst position."
+  },
+  {
+    "fit_label": "poor",
+    "winner": "finetuned",
+    "base_covers4": true,
+    "ft_covers4": true,
+    "base_grounded": false,
+    "ft_grounded": true,
+    "reason": "Response A provides a more accurate assessment of the candidate's qualifications and weaknesses in relation to the job description."
+  },
+  {
+    "fit_label": "poor",
+    "winner": "tie",
+    "base_covers4": true,
+    "ft_covers4": true,
+    "base_grounded": true,
+    "ft_grounded": true,
+    "reason": "Both responses effectively cover all four required elements and are grounded in the candidate's resume."
+  },
+  {
+    "fit_label": "strong",
+    "winner": "tie",
+    "base_covers4": true,
+    "ft_covers4": true,
+    "base_grounded": true,
+    "ft_grounded": true,
+    "reason": "Both responses effectively cover all four required elements and are grounded in the candidate's resume."
+  },
+  {
+    "fit_label": "strong",
+    "winner": "tie",
+    "base_covers4": true,
+    "ft_covers4": true,
+    "base_grounded": true,
+    "ft_grounded": true,
+    "reason": "Both responses effectively cover all four points and are grounded in the candidate's resume."
+  },
+  {
+    "fit_label": "strong",
+    "winner": "tie",
+    "base_covers4": true,
+    "ft_covers4": true,
+    "base_grounded": true,
+    "ft_grounded": true,
+    "reason": "Both responses effectively cover all four required elements and are grounded in the candidate's resume."
+  },
+  {
+    "fit_label": "strong",
+    "winner": "tie",
+    "base_covers4": true,
+    "ft_covers4": true,
+    "base_grounded": true,
+    "ft_grounded": true,
+    "reason": "Both responses effectively cover all four points and are grounded in the candidate's resume."
+  },
+  {
+    "fit_label": "strong",
+    "winner": "tie",
+    "base_covers4": true,
+    "ft_covers4": true,
+    "base_grounded": true,
+    "ft_grounded": true,
+    "reason": "Both responses effectively cover all four required elements and are grounded in the candidate's resume."
+  },
+  {
+    "fit_label": "strong",
+    "winner": "tie",
+    "base_covers4": true,
+    "ft_covers4": true,
+    "base_grounded": true,
+    "ft_grounded": true,
+    "reason": "Both responses effectively cover all four points and are grounded in the candidate's resume."
+  },
+  {
+    "fit_label": "strong",
+    "winner": "tie",
+    "base_covers4": true,
+    "ft_covers4": true,
+    "base_grounded": true,
+    "ft_grounded": true,
+    "reason": "Both responses effectively cover all four required elements and are grounded in the candidate's resume."
+  },
+  {
+    "fit_label": "strong",
+    "winner": "finetuned",
+    "base_covers4": false,
+    "ft_covers4": true,
+    "base_grounded": true,
+    "ft_grounded": true,
+    "reason": "Response B effectively addresses all four criteria, while Response A does not fully cover the weaknesses or missing qualifications."
+  },
+  {
+    "fit_label": "strong",
+    "winner": "tie",
+    "base_covers4": true,
+    "ft_covers4": true,
+    "base_grounded": true,
+    "ft_grounded": true,
+    "reason": "Both responses effectively cover all four required elements and are grounded in the candidate's resume."
+  },
+  {
+    "fit_label": "strong",
+    "winner": "tie",
+    "base_covers4": true,
+    "ft_covers4": true,
+    "base_grounded": true,
+    "ft_grounded": true,
+    "reason": "Both responses effectively cover all four required elements and are grounded in the candidate's resume."
+  }
+]

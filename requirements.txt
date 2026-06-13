@@ -1,0 +1,11 @@
+# Training (run on a GPU — Colab A100/L4). Latest mutually-compatible versions.
+transformers
+trl
+peft
+accelerate
+datasets
+bitsandbytes
+
+# Dataset generation (distillation teacher) + evaluation
+openai
+huggingface_hub

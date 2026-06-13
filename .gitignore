@@ -1,0 +1,29 @@
+# Secrets — never commit real tokens
+.env
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model artifacts (large — keep on HF Hub, not in git)
+*.safetensors
+*.bin
+*.pt
+*.gguf
+adapters/
+checkpoints/
+outputs/
+
+# Data — keep a small sample in repo, ignore the full local set
+data/raw/
+data/full/
+
+# OS
+.DS_Store
