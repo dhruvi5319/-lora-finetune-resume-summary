@@ -136,5 +136,5 @@ python eval/judge.py eval/eval_results_v2.json   # evaluate
 - [x] Phase 2 — Training setup
 - [x] Phase 3 — Train & debug
 - [x] Phase 4 — Evaluate
-- [ ] Phase 5 — Integrate into screener
+- [x] Phase 5 — Integrate into screener
 - [x] Phase 6 — Publish
